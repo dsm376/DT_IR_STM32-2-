@@ -1,0 +1,5 @@
+IR.c:38:6:UART_TX	8	static
+IR.c:45:6:HAL_UART_RxCpltCallback	16	static
+IR.c:63:6:LED	16	static
+IR.c:75:6:buzzer_Notification	8	static
+IR.c:93:6:check_charge_status	24	static

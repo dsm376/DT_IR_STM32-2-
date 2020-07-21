@@ -1,0 +1,6 @@
+sEn.c:47:9:CRC8_Calc	32	static
+sEn.c:61:6:sEn_WriteReg	48	static
+sEn.c:98:10:sEn_ReadReg	64	static
+sEn.c:129:7:sEn_ReadTemp	32	static
+sEn.c:142:7:sEn_ScanDevices	24	static
+sEn.c:168:6:sEn_SendDebugMsg	48	static
